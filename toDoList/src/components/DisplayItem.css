@@ -1,0 +1,17 @@
+/* In your main CSS file */
+@import '@fortawesome/fontawesome-svg-core/styles.css';
+
+
+div{
+    margin-top : 7px;
+}
+div li {
+    list-style-type: none;
+    padding-top:4px;
+}
+
+.del-btn{
+    margin-left: 25px;
+    background: none;
+    border : none;
+}
