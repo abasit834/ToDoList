@@ -1,7 +1,7 @@
 import React from "react";
 import './Frontend.css'
 import { useDispatch } from "react-redux";
-import { addItem,deleteAllItems } from "../store/slices/crudSlice";
+import { addItem,deleteAllItems } from "../store/slices/CrudSlice";
 import DisplayItem from "./DisplayItem";
 import Title from "./Title";
 

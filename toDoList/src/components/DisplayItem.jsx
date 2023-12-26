@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 import './DisplayItem.css'
 import { useDispatch } from "react-redux";
-import { removeItem } from "../store/slices/crudSlice";
+import { removeItem } from "../store/slices/CrudSlice";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash } from '@fortawesome/free-solid-svg-icons';
 
